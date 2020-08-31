@@ -37,7 +37,7 @@ while t:
             else:
                 #alem de verificar o numero seguinte reseta o count para testar os valores a partir do 2 de novo
                 n=n+1
-                
+                count=2
         else:
             count=count+1
         
